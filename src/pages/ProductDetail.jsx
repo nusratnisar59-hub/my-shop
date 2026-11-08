@@ -28,6 +28,7 @@ function ProductDetail() {
       </button>
     </div>
   );
+  
 }
 
 export default ProductDetail;
